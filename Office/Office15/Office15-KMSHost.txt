@@ -1,0 +1,20 @@
+﻿
+Product Key       : J6D9X-P93CP-86BKF-FG6RH-4MFPM
+Profile           : Office 2013 KMS Host
+Result            : Specified key is valid
+Product ID        : 00000-235-5342133-03882
+Extended PID      : 00000-00206-235-534213-03-1033-26200.0000-1852026
+ActConfig ID      : msft2005:2e28138a-847f-42bc-9752-61b03fff33cd&Cu8TnKQBAAAAAAAA
+Activation ID     : 2e28138a-847f-42bc-9752-61b03fff33cd
+Description       : Office15_KMSHostVL_KMS_Host
+Edition           : KMSHostVolume
+Part number       : X18-31989
+Label ID          : 00206-235-534-213
+Key Type          : Volume:CSVLK
+EULA              : ltKMSHost
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 206 (0xCE)
+Key ID            : 235534213 (0xE09F785)
+License Type      : 3
+Upgrade Key       : No
+Query Time        : 4.680 s

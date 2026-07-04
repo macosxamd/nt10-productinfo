@@ -1,0 +1,20 @@
+﻿
+Product Key       : 87FD7-KYF4M-FV4F2-FJ89W-8C37D
+Profile           : Office 2016-2019-2021-2024 KMS Host
+Result            : Specified key is valid
+Product ID        : 00000-437-4199732-03266
+Extended PID      : 00000-00206-437-419973-03-1033-26200.0000-1852026
+ActConfig ID      : msft2005:98ebfe73-2084-4c97-932c-c0cd1643bea7&iv8ktDkBAAAAAAAA
+Activation ID     : 98ebfe73-2084-4c97-932c-c0cd1643bea7
+Description       : Office16_KMSHostVL_KMS_Host
+Edition           : KMSHostVolume
+Part number       : X20-45550
+Label ID          : 00206-437-419-973
+Key Type          : Volume:CSVLK
+EULA              : ltKMSHost
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 206 (0xCE)
+Key ID            : 437419973 (0x1A127FC5)
+License Type      : 3
+Upgrade Key       : No
+Query Time        : 4.155 s
