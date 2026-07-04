@@ -1,0 +1,660 @@
+﻿
+Product Key       : VXHHB-W7HBD-7M342-RJ7P8-CHBD6
+Profile           : Office 2010
+Result            : Specified key is valid
+Product ID        : 00000-001-0000905-49436
+Extended PID      : 00000-00098-001-000090-00-1033-26200.0000-1852026
+ActConfig ID      : msft2005:2745e581-565a-4670-ae90-6bf7c57ffe43&NIUeAJAAAAAAAAAA
+Activation ID     : 2745e581-565a-4670-ae90-6bf7c57ffe43
+Description       : RTM_Starter_ByPass
+Edition           : StarterR
+Part number       : X16-08348
+Label ID          : 00098-001-000-090
+Key Type          : Retail
+EULA              : ltFree
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 98 (0x62)
+Key ID            : 1000090 (0xF429A)
+License Type      : 0
+Upgrade Key       : No
+Query Time        : 4.124 s
+
+--------------------------------------------------------------
+
+Product Key       : 3X43R-HHHXX-FRHRW-2M2WJ-8VPHD
+Profile           : Office 2010
+Result            : Specified key is valid
+Product ID        : 00000-244-6200085-10456
+Extended PID      : 00000-00020-244-620008-00-1033-26200.0000-1852026
+ActConfig ID      : msft2005:09e2d37e-474b-4121-8626-58ad9be5776f&0DUpHdsAAAAAAAAA
+Activation ID     : 09e2d37e-474b-4121-8626-58ad9be5776f
+Description       : RTM_HomeStudent_Retail
+Edition           : HomeStudentR
+Part number       : X16-07565
+Label ID          : 00020-244-620-008
+Key Type          : Retail
+EULA              : ltPERP
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 20 (0x14)
+Key ID            : 244620008 (0xE949AE8)
+License Type      : 0
+Upgrade Key       : No
+Query Time        : 3.939 s
+
+--------------------------------------------------------------
+
+Product Key       : BDH6R-HF2KM-JQTFC-VJ9PC-28P4V
+Profile           : Office 2010
+Result            : Specified key is valid
+Product ID        : 00000-OEM-1070382-66108
+Extended PID      : 00000-00020-703-866108-02-1033-26200.0000-1852026
+ActConfig ID      : msft2005:5dbe2163-3fa9-464c-b8b7-caadde61e4ff&+Eno01gAAAAAAAAA
+Activation ID     : 5dbe2163-3fa9-464c-b8b7-caadde61e4ff
+Description       : RTM_HomeStudent_OEM_Perp
+Edition           : HomeStudentR
+Part number       : X16-09180
+Label ID          : 00020-703-866-108
+Key Type          : OEM:NONSLP
+EULA              : ltPERP
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 20 (0x14)
+Key ID            : 703866108 (0x29F424FC)
+License Type      : 2
+Upgrade Key       : No
+Query Time        : 3.928 s
+
+--------------------------------------------------------------
+
+Product Key       : 3YR9B-D9W79-BY66R-R8XYP-QYYYY
+Profile           : Office 2010
+Result            : Specified key is valid
+Product ID        : 00000-242-8082021-11826
+Extended PID      : 00000-00022-242-808202-00-1033-26200.0000-1852026
+ActConfig ID      : msft2005:7b7d1f17-fdcb-4820-9789-9bec6e377821&FOvxnOcAAAAAAAAA
+Activation ID     : 7b7d1f17-fdcb-4820-9789-9bec6e377821
+Description       : RTM_HomeBusiness_Retail
+Edition           : HomeBusinessR
+Part number       : X16-07544
+Label ID          : 00022-242-808-202
+Key Type          : Retail
+EULA              : ltPERP
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 22 (0x16)
+Key ID            : 242808202 (0xE78F58A)
+License Type      : 0
+Upgrade Key       : No
+Query Time        : 3.933 s
+
+--------------------------------------------------------------
+
+Product Key       : MJJF3-MWBMH-WRW62-HHBVJ-2YFQV
+Profile           : Office 2010
+Result            : Specified key is valid
+Product ID        : 00000-OEM-1170066-11684
+Extended PID      : 00000-00022-700-611684-02-1033-26200.0000-1852026
+ActConfig ID      : msft2005:f63b84d0-ed9d-4b05-99e4-19d33fd7afbd&yPiE05ABAAAAAAAA
+Activation ID     : f63b84d0-ed9d-4b05-99e4-19d33fd7afbd
+Description       : RTM_HomeBusiness_OEM_Perp
+Edition           : HomeBusinessR
+Part number       : X16-07351
+Label ID          : 00022-700-611-684
+Key Type          : OEM:NONSLP
+EULA              : ltPERP
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 22 (0x16)
+Key ID            : 700611684 (0x29C27C64)
+License Type      : 2
+Upgrade Key       : No
+Query Time        : 3.952 s
+
+--------------------------------------------------------------
+
+Product Key       : GMBWM-WVX26-7WHV4-DB43D-WVDY2
+Profile           : Office 2010
+Result            : Specified key is valid
+Product ID        : 00000-199-3847893-31186
+Extended PID      : 00000-00062-199-384789-00-1033-26200.0000-1852026
+ActConfig ID      : msft2005:acb51361-c0db-4895-9497-1831c41f31a6&qr3Elz4AAAAAAAAA
+Activation ID     : acb51361-c0db-4895-9497-1831c41f31a6
+Description       : RTM_Personal_Retail
+Edition           : PersonalR
+Part number       : X16-07579
+Label ID          : 00062-199-384-789
+Key Type          : Retail
+EULA              : ltPERP
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 62 (0x3E)
+Key ID            : 199384789 (0xBE25ED5)
+License Type      : 0
+Upgrade Key       : No
+Query Time        : 3.934 s
+
+--------------------------------------------------------------
+
+Product Key       : D6QFG-VBYP2-XQHM7-J97RH-VVRCK
+Profile           : Office 2010
+Result            : Specified key is valid
+Product ID        : 00000-001-0000007-29011
+Extended PID      : 00000-00058-001-000000-03-1033-26200.0000-1852026
+ActConfig ID      : msft2005:ea509e87-07a1-4a45-9edc-eba5a39f36af&gIQegO8BAAAAAAAA
+Activation ID     : ea509e87-07a1-4a45-9edc-eba5a39f36af
+Description       : RTM_SmallBusBasics_KMS_Client
+Edition           : SmallBusBasicsVL
+Part number       : X16-08046
+Label ID          : 00058-001-000-000
+Key Type          : Volume:GVLK
+EULA              : ltKMS
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 58 (0x3A)
+Key ID            : 1000000 (0xF4240)
+License Type      : 3
+Upgrade Key       : No
+Query Time        : 3.995 s
+
+--------------------------------------------------------------
+
+Product Key       : 7VKXH-9BWCG-RPTBB-JBRV3-GRHYC
+Profile           : Office 2010
+Result            : Specified key is valid
+Product ID        : 00000-089-0005621-29251
+Extended PID      : 00000-00058-089-000562-03-1033-26200.0000-1852026
+ActConfig ID      : msft2005:8090771e-d41a-4482-929e-de87f1f47e46&5BSciqgAAAAAAAAA
+Activation ID     : 8090771e-d41a-4482-929e-de87f1f47e46
+Description       : RTM_SmallBusBasics_MAK
+Edition           : SmallBusBasicsVL
+Part number       : X16-08135
+Label ID          : 00058-089-000-562
+Key Type          : Volume:MAK
+EULA              : ltMAK
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 58 (0x3A)
+Key ID            : 89000562 (0x54E0A72)
+License Type      : 3
+Upgrade Key       : No
+Query Time        : 3.917 s
+
+--------------------------------------------------------------
+
+Product Key       : W3BTX-H6BW7-Q6DFW-BXFFY-8RVJP
+Profile           : Office 2010
+Result            : Specified key is valid
+Product ID        : 00000-561-0356572-38132
+Extended PID      : 00000-00076-561-035657-00-1033-26200.0000-1852026
+ActConfig ID      : msft2005:b6d2565c-341d-4768-ad7d-addbe00bb5ce&EnPhwjoAAAAAAAAA
+Activation ID     : b6d2565c-341d-4768-ad7d-addbe00bb5ce
+Description       : RTM_StandardMSDN_Retail
+Edition           : StandardMSDNR
+Part number       : X16-08143
+Label ID          : 00076-561-035-657
+Key Type          : Retail
+EULA              : ltPERP
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 76 (0x4C)
+Key ID            : 561035657 (0x2170B989)
+License Type      : 0
+Upgrade Key       : No
+Query Time        : 3.936 s
+
+--------------------------------------------------------------
+
+Product Key       : V7QKV-4XVVR-XYV4D-F7DFM-8R6BM
+Profile           : Office 2010
+Result            : Specified key is valid
+Product ID        : 00000-001-0000106-38272
+Extended PID      : 00000-00076-001-000010-03-1033-26200.0000-1852026
+ActConfig ID      : msft2005:9da2a678-fb6b-4e67-ab84-60dd6a9c819a&lIQeAAQAAAAAAAAA
+Activation ID     : 9da2a678-fb6b-4e67-ab84-60dd6a9c819a
+Description       : RTM_Standard_KMS_Client
+Edition           : StandardVL
+Part number       : X16-08047
+Label ID          : 00076-001-000-010
+Key Type          : Volume:GVLK
+EULA              : ltKMS
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 76 (0x4C)
+Key ID            : 1000010 (0xF424A)
+License Type      : 3
+Upgrade Key       : No
+Query Time        : 3.936 s
+
+--------------------------------------------------------------
+
+Product Key       : 2XTQP-GDR7C-GTXPC-6W6PV-4RXGC
+Profile           : Office 2010
+Result            : Specified key is valid
+Product ID        : 00000-581-0200534-38362
+Extended PID      : 00000-00076-581-020053-03-1033-26200.0000-1852026
+ActConfig ID      : msft2005:1f76e346-e0be-49bc-9954-70ec53a4fcfe&KlNDxeQAAAAAAAAA
+Activation ID     : 1f76e346-e0be-49bc-9954-70ec53a4fcfe
+Description       : RTM_Standard_MAK
+Edition           : StandardVL
+Part number       : X16-08145
+Label ID          : 00076-581-020-053
+Key Type          : Volume:MAK
+EULA              : ltMAK
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 76 (0x4C)
+Key ID            : 581020053 (0x22A1A995)
+License Type      : 3
+Upgrade Key       : No
+Query Time        : 3.946 s
+
+--------------------------------------------------------------
+
+Product Key       : 367X9-9HP9R-TKHY6-DH4QH-K9PY7
+Profile           : Office 2010
+Result            : Specified key is valid
+Product ID        : 00000-031-5181321-15590
+Extended PID      : 00000-00030-031-518132-00-1033-26200.0000-1852026
+ActConfig ID      : msft2005:8b559c37-0117-413e-921b-b853aeb6e210&aNvBA+EBAAAAAAAA
+Activation ID     : 8b559c37-0117-413e-921b-b853aeb6e210
+Description       : RTM_Professional_Retail
+Edition           : ProfessionalR
+Part number       : X16-07590
+Label ID          : 00030-031-518-132
+Key Type          : Retail
+EULA              : ltPERP
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 30 (0x1E)
+Key ID            : 31518132 (0x1E0EDB4)
+License Type      : 0
+Upgrade Key       : No
+Query Time        : 3.935 s
+
+--------------------------------------------------------------
+
+Product Key       : KGXP3-V4Y97-R9XVJ-P7H9R-R3VGM
+Profile           : Office 2010
+Result            : Specified key is valid
+Product ID        : 00000-OEM-1570186-72095
+Extended PID      : 00000-00030-701-872095-02-1033-26200.0000-1852026
+ActConfig ID      : msft2005:1783c7a6-840c-4b33-af05-2b1f5cd73527&vm+r02gAAAAAAAAA
+Activation ID     : 1783c7a6-840c-4b33-af05-2b1f5cd73527
+Description       : RTM_Professional_OEM_Perp
+Edition           : ProfessionalR
+Part number       : X16-09181
+Label ID          : 00030-701-872-095
+Key Type          : OEM:NONSLP
+EULA              : ltPERP
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 30 (0x1E)
+Key ID            : 701872095 (0x29D5B7DF)
+License Type      : 2
+Upgrade Key       : No
+Query Time        : 3.968 s
+
+--------------------------------------------------------------
+
+Product Key       : 2J9H6-H4D3G-PCXD2-96XVM-TRR73
+Profile           : Office 2010
+Result            : Specified key is valid
+Product ID        : 00000-212-8791674-49829
+Extended PID      : 00000-00098-212-879167-00-1033-26200.0000-1852026
+ActConfig ID      : msft2005:71af7e84-93e6-4363-9b69-699e04e74071&fo5gGRUAAAAAAAAA
+Activation ID     : 71af7e84-93e6-4363-9b69-699e04e74071
+Description       : RTM_ProPlus_Retail
+Edition           : ProPlusR
+Part number       : X16-07627
+Label ID          : 00098-212-879-167
+Key Type          : Retail
+EULA              : ltPERP
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 98 (0x62)
+Key ID            : 212879167 (0xCB0473F)
+License Type      : 0
+Upgrade Key       : No
+Query Time        : 4.340 s
+
+--------------------------------------------------------------
+
+Product Key       : VYBBJ-TRJPB-QFQRF-QFT4D-H3GVB
+Profile           : Office 2010
+Result            : Specified key is valid
+Product ID        : 00000-018-0000106-48418
+Extended PID      : 00000-00096-018-000010-03-1033-26200.0000-1852026
+ActConfig ID      : msft2005:6f327760-8c5c-417c-9b61-836a98287e0c&FFElAqIAAAAAAAAA
+Activation ID     : 6f327760-8c5c-417c-9b61-836a98287e0c
+Description       : RTM_ProPlus_KMS_Client
+Edition           : ProPlusVL
+Part number       : X16-08044
+Label ID          : 00096-018-000-010
+Key Type          : Volume:GVLK
+EULA              : ltKMS
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 96 (0x60)
+Key ID            : 18000010 (0x112A88A)
+License Type      : 3
+Upgrade Key       : No
+Query Time        : 4.289 s
+
+--------------------------------------------------------------
+
+Product Key       : 6CD6C-9R8PB-T2D9Y-8RKKX-W7DFK
+Profile           : Office 2010
+Result            : Specified key is valid
+Product ID        : 00000-523-6109417-48047
+Extended PID      : 00000-00096-523-610941-03-1033-26200.0000-1852026
+ActConfig ID      : msft2005:fdf3ecb9-b56f-43b2-a9b8-1b48b6bae1a7&elZrvogBAAAAAAAA
+Activation ID     : fdf3ecb9-b56f-43b2-a9b8-1b48b6bae1a7
+Description       : RTM_ProPlus_MAK
+Edition           : ProPlusVL
+Part number       : X16-08112
+Label ID          : 00096-523-610-941
+Key Type          : Volume:MAK
+EULA              : ltMAK
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 96 (0x60)
+Key ID            : 523610941 (0x1F35AB3D)
+License Type      : 3
+Upgrade Key       : No
+Query Time        : 4.582 s
+
+--------------------------------------------------------------
+
+Product Key       : 2W96V-RTQ9R-2BPVT-PT8H9-MV68T
+Profile           : Office 2010
+Result            : Specified key is valid
+Product ID        : 00000-201-0852497-38222
+Extended PID      : 00000-00076-201-085249-00-1033-26200.0000-1852026
+ActConfig ID      : msft2005:688f6589-2bd9-424e-a152-b13f36aa6de1&gqL4F8IBAAAAAAAA
+Activation ID     : 688f6589-2bd9-424e-a152-b13f36aa6de1
+Description       : RTM_ProjectStd_Retail
+Edition           : ProjectStdR
+Part number       : X16-07754
+Label ID          : 00076-201-085-249
+Key Type          : Retail
+EULA              : ltPERP
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 76 (0x4C)
+Key ID            : 201085249 (0xBFC5141)
+License Type      : 0
+Upgrade Key       : No
+Query Time        : 6.422 s
+
+--------------------------------------------------------------
+
+Product Key       : 4HP3K-88W3F-W2K3D-6677X-F9PGB
+Profile           : Office 2010
+Result            : Specified key is valid
+Product ID        : 00000-001-0000106-49028
+Extended PID      : 00000-00098-001-000010-03-1033-26200.0000-1852026
+ActConfig ID      : msft2005:5dc7bf61-5ec9-4996-9ccb-df806a2d0efe&lIQegGkBAAAAAAAA
+Activation ID     : 5dc7bf61-5ec9-4996-9ccb-df806a2d0efe
+Description       : RTM_ProjectStd_KMS_Client
+Edition           : ProjectStdVL
+Part number       : X16-08051
+Label ID          : 00098-001-000-010
+Key Type          : Volume:GVLK
+EULA              : ltKMS
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 98 (0x62)
+Key ID            : 1000010 (0xF424A)
+License Type      : 3
+Upgrade Key       : No
+Query Time        : 7.080 s
+
+--------------------------------------------------------------
+
+Product Key       : 4DTT4-D4MKX-23KFH-JKR6T-YKG2J
+Profile           : Office 2010
+Result            : Specified key is valid
+Product ID        : 00000-493-1283824-49006
+Extended PID      : 00000-00098-493-128382-03-1033-26200.0000-1852026
+ActConfig ID      : msft2005:11b39439-6b93-4642-9570-f2eb81be2238&fBXJuiQAAAAAAAAA
+Activation ID     : 11b39439-6b93-4642-9570-f2eb81be2238
+Description       : RTM_ProjectStd_MAK
+Edition           : ProjectStdVL
+Part number       : X16-08193
+Label ID          : 00098-493-128-382
+Key Type          : Volume:MAK
+EULA              : ltMAK
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 98 (0x62)
+Key ID            : 493128382 (0x1D648ABE)
+License Type      : 3
+Upgrade Key       : No
+Query Time        : 6.037 s
+
+--------------------------------------------------------------
+
+Product Key       : 6JD4G-KRW3J-48MGV-DM6FC-T9WKR
+Profile           : Office 2010
+Result            : Specified key is valid
+Product ID        : 00000-273-4517112-37633
+Extended PID      : 00000-00074-273-451711-00-1033-26200.0000-1852026
+ActConfig ID      : msft2005:725714d7-d58f-4d12-9fa8-35873c6f7215&fhWZoDcBAAAAAAAA
+Activation ID     : 725714d7-d58f-4d12-9fa8-35873c6f7215
+Description       : RTM_ProjectPro_Retail
+Edition           : ProjectProR
+Part number       : X16-07780
+Label ID          : 00074-273-451-711
+Key Type          : Retail
+EULA              : ltPERP
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 74 (0x4A)
+Key ID            : 273451711 (0x104C8ABF)
+License Type      : 0
+Upgrade Key       : No
+Query Time        : 3.977 s
+
+--------------------------------------------------------------
+
+Product Key       : YGX6F-PGV49-PGW3J-9BTGG-VHKC6
+Profile           : Office 2010
+Result            : Specified key is valid
+Product ID        : 00000-001-0000205-49650
+Extended PID      : 00000-00098-001-000020-03-1033-26200.0000-1852026
+ActConfig ID      : msft2005:df133ff7-bf14-4f95-afe3-7b48e7e331ef&qIQeAIcAAAAAAAAA
+Activation ID     : df133ff7-bf14-4f95-afe3-7b48e7e331ef
+Description       : RTM_ProjectPro_KMS_Client
+Edition           : ProjectProVL
+Part number       : X16-08052
+Label ID          : 00098-001-000-020
+Key Type          : Volume:GVLK
+EULA              : ltKMS
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 98 (0x62)
+Key ID            : 1000020 (0xF4254)
+License Type      : 3
+Upgrade Key       : No
+Query Time        : 4.230 s
+
+--------------------------------------------------------------
+
+Product Key       : 3XDTH-MMGJ6-F9MKX-THP8D-G9BP7
+Profile           : Office 2010
+Result            : Specified key is valid
+Product ID        : 00000-346-0995023-49201
+Extended PID      : 00000-00098-346-099502-03-1033-26200.0000-1852026
+ActConfig ID      : msft2005:1cf57a59-c532-4e56-9a7d-ffa2fe94b474&XB5CKXIAAAAAAAAA
+Activation ID     : 1cf57a59-c532-4e56-9a7d-ffa2fe94b474
+Description       : RTM_ProjectPro_MAK
+Edition           : ProjectProVL
+Part number       : X16-08208
+Label ID          : 00098-346-099-502
+Key Type          : Volume:MAK
+EULA              : ltMAK
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 98 (0x62)
+Key ID            : 346099502 (0x14A10F2E)
+License Type      : 3
+Upgrade Key       : No
+Query Time        : 4.217 s
+
+--------------------------------------------------------------
+
+Product Key       : KDC8B-4W8WG-9R7B4-34VCK-2QB9K
+Profile           : Office 2010
+Result            : Specified key is valid
+Product ID        : 00000-350-1122251-31046
+Extended PID      : 00000-00062-350-112225-00-1033-26200.0000-1852026
+ActConfig ID      : msft2005:ba24d057-8b5f-462e-87fe-485038c68954&wpO8Kd4BAAAAAAAA
+Activation ID     : ba24d057-8b5f-462e-87fe-485038c68954
+Description       : RTM_VisioStd_Retail
+Edition           : VisioSIR
+Part number       : X16-07898
+Label ID          : 00062-350-112-225
+Key Type          : Retail
+EULA              : ltPERP
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 62 (0x3E)
+Key ID            : 350112225 (0x14DE49E1)
+License Type      : 0
+Upgrade Key       : No
+Query Time        : 3.962 s
+
+--------------------------------------------------------------
+
+Product Key       : 72RMM-CM272-QJVJR-J3PXG-M3X73
+Profile           : Office 2010
+Result            : Specified key is valid
+Product ID        : 00000-948-0962103-30548
+Extended PID      : 00000-00060-948-096210-00-1033-26200.0000-1852026
+ActConfig ID      : msft2005:d0a97e12-08a1-4a45-add5-1155b204e766&pJkF8XIAAAAAAAAA
+Activation ID     : d0a97e12-08a1-4a45-add5-1155b204e766
+Description       : RTM_VisioPro_Retail
+Edition           : VisioSIR
+Part number       : X16-07874
+Label ID          : 00060-948-096-210
+Key Type          : Retail
+EULA              : ltPERP
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 60 (0x3C)
+Key ID            : 948096210 (0x3882CCD2)
+License Type      : 0
+Upgrade Key       : No
+Query Time        : 3.922 s
+
+--------------------------------------------------------------
+
+Product Key       : C83Y4-HJ3F7-TF7Y3-WT774-QHPYM
+Profile           : Office 2010
+Result            : Specified key is valid
+Product ID        : 00000-323-8398412-31411
+Extended PID      : 00000-00062-323-839841-00-1033-26200.0000-1852026
+ActConfig ID      : msft2005:66cad568-c2dc-459d-93ec-2f3cb967ee34&ws6aphABAAAAAAAA
+Activation ID     : 66cad568-c2dc-459d-93ec-2f3cb967ee34
+Description       : RTM_VisioPrem_Retail
+Edition           : VisioSIR
+Part number       : X16-07850
+Label ID          : 00062-323-839-841
+Key Type          : Retail
+EULA              : ltPERP
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 62 (0x3E)
+Key ID            : 323839841 (0x134D6761)
+License Type      : 0
+Upgrade Key       : No
+Query Time        : 3.977 s
+
+--------------------------------------------------------------
+
+Product Key       : D9DWC-HPYVV-JGF4P-BTWQB-WX8BJ
+Profile           : Office 2010
+Result            : Specified key is valid
+Product ID        : 00000-001-0000502-69088
+Extended PID      : 00000-00138-001-000050-03-1033-26200.0000-1852026
+ActConfig ID      : msft2005:92236105-bb67-494f-94c7-7f7a607929bd&5IQegHcAAAAAAAAA
+Activation ID     : 92236105-bb67-494f-94c7-7f7a607929bd
+Description       : RTM_VisioPrem_KMS_Client
+Edition           : VisioSIVL
+Part number       : X16-08055
+Label ID          : 00138-001-000-050
+Key Type          : Volume:GVLK
+EULA              : ltKMS
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 138 (0x8A)
+Key ID            : 1000050 (0xF4272)
+License Type      : 3
+Upgrade Key       : No
+Query Time        : 4.183 s
+
+--------------------------------------------------------------
+
+Product Key       : 7PKFT-X2MKQ-GT6X2-8CB2W-CHC9K
+Profile           : Office 2010
+Result            : Specified key is valid
+Product ID        : 00000-542-1473724-69011
+Extended PID      : 00000-00138-542-147372-03-1033-26200.0000-1852026
+ActConfig ID      : msft2005:36756cb8-8e69-4d11-9522-68899507cd6a&WAahwPIAAAAAAAAA
+Activation ID     : 36756cb8-8e69-4d11-9522-68899507cd6a
+Description       : RTM_VisioPrem_MAK
+Edition           : VisioSIVL
+Part number       : X16-08241
+Label ID          : 00138-542-147-372
+Key Type          : Volume:MAK
+EULA              : ltMAK
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 138 (0x8A)
+Key ID            : 542147372 (0x2050832C)
+License Type      : 3
+Upgrade Key       : No
+Query Time        : 4.266 s
+
+--------------------------------------------------------------
+
+Product Key       : H48K6-FB4Y6-P83GH-9J7XG-HDKKX
+Profile           : Office 2010
+Result            : Specified key is valid
+Product ID        : 00000-001-0000601-49897
+Extended PID      : 00000-00098-001-000060-00-1033-26200.0000-1852026
+ActConfig ID      : msft2005:b78df69e-0966-40b1-ae85-30a5134dedd0&+IQeALMBAAAAAAAA
+Activation ID     : b78df69e-0966-40b1-ae85-30a5134dedd0
+Description       : RTM_SPD_ByPass
+Edition           : SPDR
+Part number       : X16-08327
+Label ID          : 00098-001-000-060
+Key Type          : Retail
+EULA              : ltFree
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 98 (0x62)
+Key ID            : 1000060 (0xF427C)
+License Type      : 0
+Upgrade Key       : No
+Query Time        : 4.229 s
+
+--------------------------------------------------------------
+
+Product Key       : YBJTT-JG6MD-V9Q7P-DBKXJ-38W9R
+Profile           : Office 2010
+Result            : Specified key is valid
+Product ID        : 00000-001-0000007-38832
+Extended PID      : 00000-00076-001-000000-03-1033-26200.0000-1852026
+ActConfig ID      : msft2005:09ed9640-f020-400a-acd8-d7d867dfd9c2&gIQeAJ8BAAAAAAAA
+Activation ID     : 09ed9640-f020-400a-acd8-d7d867dfd9c2
+Description       : RTM_Mondo_KMS_Client
+Edition           : MondoVL
+Part number       : X16-08043
+Label ID          : 00076-001-000-000
+Key Type          : Volume:GVLK
+EULA              : ltKMS
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 76 (0x4C)
+Key ID            : 1000000 (0xF4240)
+License Type      : 3
+Upgrade Key       : No
+Query Time        : 3.964 s
+
+--------------------------------------------------------------
+
+Product Key       : VRGMM-4Y8FW-TQ7GJ-KM86W-8J3VH
+Profile           : Office 2010
+Result            : Specified key is valid
+Product ID        : 00000-199-4369067-48563
+Extended PID      : 00000-00096-199-436906-03-1033-26200.0000-1852026
+ActConfig ID      : msft2005:bfe7a195-4f8f-4f0b-a622-cf13c7d16864&1FTGFw0AAAAAAAAA
+Activation ID     : bfe7a195-4f8f-4f0b-a622-cf13c7d16864
+Description       : RTM_ProPlus_KMS_Host
+Edition           : ProPlusVL
+Part number       : X16-08039
+Label ID          : 00096-199-436-906
+Key Type          : Volume:CSVLK
+EULA              : ltKMSHost
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 96 (0x60)
+Key ID            : 199436906 (0xBE32A6A)
+License Type      : 3
+Upgrade Key       : No
+Query Time        : 4.210 s
+
+--------------------------------------------------------------

@@ -1,0 +1,20 @@
+﻿
+Product Key       : VRGMM-4Y8FW-TQ7GJ-KM86W-8J3VH
+Profile           : Office 2010
+Result            : Specified key is valid
+Product ID        : 00000-199-4369067-48324
+Extended PID      : 00000-00096-199-436906-03-1033-26200.0000-1852026
+ActConfig ID      : msft2005:bfe7a195-4f8f-4f0b-a622-cf13c7d16864&1FTGFw0AAAAAAAAA
+Activation ID     : bfe7a195-4f8f-4f0b-a622-cf13c7d16864
+Description       : RTM_ProPlus_KMS_Host
+Edition           : ProPlusVL
+Part number       : X16-08039
+Label ID          : 00096-199-436-906
+Key Type          : Volume:CSVLK
+EULA              : ltKMSHost
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 96 (0x60)
+Key ID            : 199436906 (0xBE32A6A)
+License Type      : 3
+Upgrade Key       : No
+Query Time        : 4.238 s
