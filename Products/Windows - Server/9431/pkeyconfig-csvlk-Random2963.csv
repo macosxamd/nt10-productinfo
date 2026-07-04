@@ -1,0 +1,7 @@
+﻿"ActConfigID","RefGroupID","AlgorithmId","EditionID","ProductDescription","ProductKeyType","IsRandomized","PartNumber","EULAType","IsValid","Start","End","Total Keys"
+"{a40c3047-54c3-4bf9-8f09-fb7146cfcb02}","204","msft:rm/algorithm/pkey/2005","Enterprise;EnterpriseN;Professional;ProfessionalN","WinNext Beta Enterprise;EnterpriseN;Professional;ProfessionalN Volume:CSVLK","Volume:CSVLK","FALSE","[Blue]X17-53293","Volume","true","10020000","10029999","10000"
+"","","","","","","","","","","","[SUBTOTAL]","10000"
+"{99cb2a2c-f7ee-48e9-98b0-ae72906c6d45}","206","msft:rm/algorithm/pkey/2005","Enterprise;EnterpriseN;Professional;ProfessionalN","Win Next Edition Next Volume:CSVLK","Volume:CSVLK","FALSE","[Blue]X17-13830","Volume","true","10001900","10001999","100"
+"","","","","","","","","","","","[SUBTOTAL]","100"
+"{c609957a-dc23-48b3-8c6b-31b303479de2}","206","msft:rm/algorithm/pkey/2005","ServerDatacenter;ServerStandard","WinServer Next ServerDatacenter;ServerStandard Volume:CSVLK","Volume:CSVLK","FALSE","[Blue]X17-53913","Volume","true","21001500","21011499","10000"
+"","","","","","","","","","","","[SUBTOTAL]","10000"
